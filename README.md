@@ -1,6 +1,9 @@
-# Title 1
-## Title 2
-### Title 3
-#### Title 4
-##### Title 5
-###### Title 6
+*This text is written in Italic.*
+
+_This text is also written in italic_
+
+**Bold Text** and also __Bold text__
+
+**We can *combine* the two**
+
+~~Calcel out some parts~~
