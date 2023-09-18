@@ -1,1 +1,1 @@
-[Click link for free cake!](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+![Cat with Wine](cat.png)
