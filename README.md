@@ -1,9 +1,1 @@
-*This text is written in Italic.*
-
-_This text is also written in italic_
-
-**Bold Text** and also __Bold text__
-
-**We can *combine* the two**
-
-~~Calcel out some parts~~
+[Click link for free cake!](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
