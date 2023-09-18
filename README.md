@@ -20,13 +20,17 @@
 1. 5만원 주기
 2. 10만원 주기
 3. 클래식 국악 음악 연주하기
-4. 시간 배치 잘 하기
+4. 시간 배치 잘 하기, 지방에서 열기
 5. [망치로 때리기](https://www.joongang.co.kr/article/1165619#home)
 
 
 ## 참고자료
 
 - 슈카월드
+
 [![주총꾼](http://img.youtube.com/vi/JdRcM4fLwgE/0.jpg)](http://www.youtube.com/watch?v=JdRcM4fLwgE)
 
-- 
+- 3분짜리 현중 주주총회
+
+[![주총꾼](http://img.youtube.com/vi/K12c-hhvqXE/0.jpg)](http://www.youtube.com/watch?v=K12c-hhvqXE)
+
